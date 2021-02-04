@@ -1,10 +1,10 @@
-# Azure Machine Learning with R – Hands-on
+# [Azure Machine Learning R Examples - Predicting Remaining Useful Life of TurboFan](../README.md)
 
 ![](media/ac3d10d90b9df74255594d931691e127.png)
 
 ## 1. Getting Started
 
-- [Azure Machine Learning with R – Hands-on](#azure-machine-learning-with-r--hands-on)
+- [Azure Machine Learning R Examples - Predicting Remaining Useful Life of TurboFan](../README.md)
   - [1. Getting Started](#1-getting-started)
     - [1.1 Azure Portal](#11-azure-portal)
       - [1.1.1 Do you have Enough Cores?](#111-do-you-have-enough-cores)

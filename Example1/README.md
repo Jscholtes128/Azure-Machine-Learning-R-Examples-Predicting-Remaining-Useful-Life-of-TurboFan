@@ -1,10 +1,10 @@
-# [Azure Machine Learning R Examples - Predicting Remaining Useful Life of TurboFan](/README.md)
+# [Azure Machine Learning R Examples - Predicting Remaining Useful Life of TurboFan](../README.md)
 
 ![](/media/ac3d10d90b9df74255594d931691e127.png)
 
 ## Sample 1 - Starting Azure Machine Learning from local IDE 
 
-- [Azure Machine Learning R Examples - Predicting Remaining Useful Life of TurboFan](#azure-machine-learning-r-examples---predicting-remaining-useful-life-of-turbofan)
+- [Azure Machine Learning R Examples - Predicting Remaining Useful Life of TurboFan](../README.md)
   - [Sample 1 - Starting Azure Machine Learning from local IDE](#sample-1---starting-azure-machine-learning-from-local-ide)
   - [Prerequisites](#prerequisites)
   - [R files for data prep, train, track experiments, and deploy model:](#r-files-for-data-prep-train-track-experiments-and-deploy-model)
