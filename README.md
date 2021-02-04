@@ -13,3 +13,4 @@ We will look at how easy it is to leverage the Azure ML R SDKs with local code t
 ## Resources:
 - [Azure Machine Learning SDK (GitHub)](https://github.com/Azure/azureml-sdk-for-r)
 - [Azure Machine Learning SDK](https://azure.github.io/azureml-sdk-for-r/)
+- [Resources for Machine Learning Operations with R](https://github.com/revodavid/mlops-r)
